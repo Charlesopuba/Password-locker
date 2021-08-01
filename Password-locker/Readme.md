@@ -1,43 +1,15 @@
-# Password-Locker :closed_lock_with_key:
+## Python password-locker
+## Author : Charles Opuba
+### Description
+I have created an application that will help us manage our passwords and even generate new passwords for us.
+## User stories
+- As a user, I want to create a password locker account with my details, a login username and password.
+- As a user, I want to store my already existing account credentials in the application. Assuming I already have a twitter account, I want to store my already existing twitter username and password in the application
+- As a user, I want to create new account credentials in the application. For example, if I have not yet signed up for Instagram, I would want to create a credentials account for Instagram in the application and the application generates a password for me to use when I sign up for Instagram.
+- As a user, I want to have the option of putting in a password that I want to use for the new credential account. For example, when creating my Instagram credential account, I want to have an option of putting in the password I want to use instead of having the application generate a password for me.
+- As a user, I also want to view my various account credentials and their passwords in the application
+- As a user, I want to delete a credentials account that I no longer need in the application.
 
-Having trouble in creating a new password or trying to remember new passwords this reposirory gutch u!! :wink:
-
-This is a simple shell application that allows a user to store their profile credentials and also generate a strong password.
-
-## Authors
-
-* **Collins Kariuki**
-
-## Getting Started
-
-**These Simple Instructions will get you a copy of the application running on your terminal.**
-
-1. You need to get into the **Project Repository.**
-
-Link:-> ```https://github.com/zecollokaris/password-locker```
-
-2. **Clone the project.**
-
-3. **get into project** folder (cd into project).
-
-4. If you have all the Pre-requisites you can **run the application.**
-
-## DISPLAY
-
-![](spec.md/password1.png)
----
-![](spec.md/password2.png)
----
-![](spec.md/password3.png)
----
-![](spec.md/password4.png)
----
-![](spec.md/passwordlast.png)
----
-
-### Prerequisites
-
-**What things you need to install the application and how to install them.**
 
 ```
 Python3.6
@@ -56,29 +28,5 @@ apt-get install pip3
 
 ## Running the application
 
-1. Navigate into the cloned folder using terminal and **enter command** `./run.py` to run the app.
-The app will open on terminal
 
-2. Follow and answer the prompts to use the application.
-
-3. Cheers :beers: Enjoy the Application. :smirk:
-
-## Built With
-
-* [Python3.6](https://docs.python.org/3/)
-
-* [Ascii Text](http://patorjk.com/software/taag/#p=display&f=Graffiti&t=Type%20Something%20)
-
-
-## Support & Contact
-
-- Mobile number: (+254) 798731203
-
-- Email Address: collo.kariss@gmail.com
-
-- github-username: zecollokaris
-
-## License
-
-This project is licensed under the **MIT License** - see the [LICENSE](LICENSE.md) file for details
 
