@@ -11,3 +11,15 @@ I have created an application that will help us manage our passwords and even ge
 - As a user, I want to delete a credentials account that I no longer need in the application.
 
 
+## How to run the app
+ - You require python,pip and pyperclip to run
+
+## Set up and installation
+- Open terminal either the native one or the one provided on your code editor
+
+- Use command git clone and clone the repository at [https://github.com/Charlesopuba/Password-locker.git]
+
+
+
+
+
