@@ -18,6 +18,7 @@ I have created an application that will help us manage our passwords and even ge
 - Open terminal either the native one or the one provided on your code editor
 
 - Use command git clone and clone the repository at [https://github.com/Charlesopuba/Password-locker.git]
+- After cloning the repo you can the run the files that have been cloned to your local machine
 
 
 ## Technologies
